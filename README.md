@@ -3,29 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>K-Nearest Neighbors (KNN) Model Description</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        h1 {
-            text-align: center;
-        }
-        p {
-            margin-bottom: 10px;
-        }
-        ul {
-            margin-bottom: 20px;
-        }
-        li {
-            list-style-type: square;
-            margin-left: 20px;
-        }
-    </style>
 </head>
 <body>
-    <h1>K-Nearest Neighbors (KNN) Model Description</h1>
     <p>
         K-Nearest Neighbors (KNN) is a simple, non-parametric algorithm used for both classification and regression tasks.
     </p>
